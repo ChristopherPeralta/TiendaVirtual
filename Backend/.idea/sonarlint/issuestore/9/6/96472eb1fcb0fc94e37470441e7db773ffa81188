@@ -1,0 +1,20 @@
+
+Å
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(â¥ÿí8£À²Âğ1J$0be0b8f7-0d8c-42c4-903f-148dae872a35
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¤À²Âğ1J$2b0f080d-a576-40d7-8477-42b901de9b7a
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¤À²Âğ1J$5bafe8e9-538d-45a3-ab6c-6b67715c54c5
+…
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8¤À²Âğ1J$2befd17c-9134-4307-a90f-b3991052fac5
+…
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8¤À²Âğ1J$d5a3971d-2c37-49b6-a772-e91bfbcbe0cb
+•
+java:S6204+"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ªÀ²Âğ1J$3cbcf13f-4fc5-4f0a-93dc-ec5ffe0d74d3
+}	java:S125O"<This block of commented-out lines of code should be removed.(³ÎÔ>8Ÿ¾Âğ1J$da540882-b603-4d4c-ba6d-cbc910e89cfc
+‘
+java:S1128"IRemove this unused import 'ecommerce.dto.categoria.CategoriaResponseDTO'.(•¹îıÿÿÿÿ8¾À²Âğ1J$2bc89e64-2474-4465-a131-34bbb94e43a0
+
+java:S1128"GRemove this unused import 'ecommerce.dto.producto.ProductoResponseDTO'.(Ö§şêÿÿÿÿÿ8¿À²Âğ1J$300d287f-a616-4278-aa13-d999eb2219d6
+~
+java:S1128"6Remove this unused import 'org.aspectj.weaver.ast.Or'.(®ô²Îûÿÿÿÿ8¿À²Âğ1J$e92dc0db-4f60-4791-8eee-141ef5787945
